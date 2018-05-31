@@ -1,6 +1,6 @@
 cask 'd16-nepheton' do
-  version '1.4.5'
-  sha256 'a63d4cd39dc88d3b7f4026364340961c334d1393bf585f5ec4293a02ca96ced0'
+  version '1.5.0'
+  sha256 'e80f6cad485ca80fa394d3307c0aede2c4ea24971e5091b1285ee9ad5cbc3773'
 
   url "http://d16.pl/pub/install/Nepheton%20-%20#{version}.dmg"
   name 'D16 Nepheton'
