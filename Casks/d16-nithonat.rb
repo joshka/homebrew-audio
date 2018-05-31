@@ -1,6 +1,6 @@
 cask 'd16-nithonat' do
-  version '1.0.3'
-  sha256 '483349ee4cd9b68454f6550ea72529e0af961fcea1dec040686a53105822d7c9'
+  version '1.4.4'
+  sha256 '82c5cc1649aba4d114744ae5439da6e74ec2bd5a3943213b63a09def57010bbf'
 
   url "http://d16.pl/pub/install/Nithonat%20-%20#{version}.dmg"
   name 'D16 Nithonat'
