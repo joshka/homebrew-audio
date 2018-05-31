@@ -1,6 +1,6 @@
 cask 'd16-decimort' do
-  version '1.3.1'
-  sha256 'c2ac6663e167288c536cd3512a061a84d941835868c602825c48acedfc1db312'
+  version '1.4.0'
+  sha256 'f7de99039d1dc2defc77a143c9e7142cf5c6190a199b021ee84f43857b6eb882'
 
   url "http://d16.pl/pub/install/Decimort%20-%20#{version}.dmg"
   name 'D16 Decimort'
