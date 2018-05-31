@@ -1,6 +1,6 @@
 cask 'd16-toraverb' do
-  version '1.2.1'
-  sha256 'd35fd82a40cbe0be6eab87662c83e95f64892d0a4615a57c85dbcd5c148a8cab'
+  version '1.3.0'
+  sha256 'de7e3c32dc1d71c40ae6e39fbce160317747582facb862a096e52bc8faf12a59'
 
   url "http://d16.pl/pub/install/Toraverb%20-%20#{version}.dmg"
   name 'D16 Toraverb'
