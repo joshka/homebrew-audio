@@ -8,5 +8,5 @@ cask 'd16-lush-101' do
 
   pkg "LuSH-101-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.lush-101'
+  uninstall pkgutil: 'com.d16group.pkg.lush101'
 end
