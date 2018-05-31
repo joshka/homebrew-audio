@@ -1,6 +1,6 @@
 cask 'd16-drumazon' do
-  version '1.6.0'
-  sha256 '8dbd60b98cf403777347e620f728d8567e4ce56c879882a92cc12b08c1b84cd7'
+  version '1.6.1'
+  sha256 'd2ab7209c04a037cf7a7e1ac0c2c82096cc022189a27f22ffda5db6f3ac94caa'
 
   url "http://d16.pl/pub/install/Drumazon%20-%20#{version}.dmg"
   name 'D16 Drumazon'
