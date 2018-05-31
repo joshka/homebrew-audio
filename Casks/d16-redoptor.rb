@@ -1,6 +1,6 @@
 cask 'd16-redoptor' do
-  version '1.3.0'
-  sha256 '8ccd7441b9273ba1951b5b5e6707080651c9a2a72d3b25befd7bb85998b4adbd'
+  version '1.3.1'
+  sha256 'dc96919df046b0b7f15b21243dfd74eda126257e65c1855aed9ebcbbd976ed18'
 
   url "http://d16.pl/pub/install/Redoptor%20-%20#{version}.dmg"
   name 'D16 Redoptor'
