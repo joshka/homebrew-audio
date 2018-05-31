@@ -10,3 +10,5 @@ You can now install casks from this repo.
 ```shell
 $ brew cask install d16-frontier
 ```
+## License
+[MIT License](LICENSE.md)
