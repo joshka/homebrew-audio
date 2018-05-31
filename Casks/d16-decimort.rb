@@ -8,5 +8,5 @@ cask 'd16-decimort' do
 
   pkg "Decimort-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.decimort'
+  uninstall pkgutil: ['com.d16group.decimort', 'com.d16group.pkg.decimort']
 end

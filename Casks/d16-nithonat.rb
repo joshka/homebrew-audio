@@ -8,5 +8,5 @@ cask 'd16-nithonat' do
 
   pkg "Nithonat-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.nithonat'
+  uninstall pkgutil: ['com.d16group.nithonat', 'com.d16group.pkg.nithonat']
 end

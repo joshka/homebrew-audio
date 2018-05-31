@@ -8,5 +8,6 @@ cask 'd16-redoptor' do
 
   pkg "Redoptor-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.redoptor'
+  uninstall pkgutil: ['com.d16group.redoptor', 'com.d16group.pkg.redoptor']
+
 end

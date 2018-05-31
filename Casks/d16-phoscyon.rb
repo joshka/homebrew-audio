@@ -8,5 +8,5 @@ cask 'd16-phoscyon' do
 
   pkg "Phoscyon-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.phoscyon'
+  uninstall pkgutil: ['com.d16group.phoscyon', 'com.d16group.pkg.phoscyon']
 end

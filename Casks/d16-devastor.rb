@@ -8,5 +8,5 @@ cask 'd16-devastor' do
 
   pkg "Devastor-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.devastor'
+  uninstall pkgutil: ['com.d16group.devastor', 'com.d16group.pkg.devastor']
 end

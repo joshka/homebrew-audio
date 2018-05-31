@@ -8,5 +8,5 @@ cask 'd16-drumazon' do
 
   pkg "Drumazon-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.drumazon'
+  uninstall pkgutil: ['com.d16group.drumazon', 'com.d16group.pkg.drumazon']
 end

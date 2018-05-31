@@ -8,5 +8,5 @@ cask 'd16-fazortan' do
 
   pkg "Fazortan-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.fazortan'
+  uninstall pkgutil: ['com.d16group.fazortan', 'com.d16group.pkg.fazortan']
 end

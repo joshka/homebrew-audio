@@ -8,5 +8,5 @@ cask 'd16-nepheton' do
 
   pkg "Nepheton-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.nepheton'
+  uninstall pkgutil: ['com.d16group.nepheton', 'com.d16group.pkg.nepheton']
 end

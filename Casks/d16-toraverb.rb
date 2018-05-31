@@ -8,5 +8,5 @@ cask 'd16-toraverb' do
 
   pkg "Toraverb-#{version}.pkg"
 
-  uninstall pkgutil: 'com.d16group.pkg.toraverb'
+  uninstall pkgutil: ['com.d16group.toraverb', 'com.d16group.pkg.toraverb']
 end
