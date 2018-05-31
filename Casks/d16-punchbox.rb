@@ -1,12 +1,12 @@
 cask 'd16-punchbox' do
-  version '1.0.1'
-  sha256 '92389c17184e62965058a40c33fd1d1cd7b486d9b76085151af3ed8ccbae2e90'
+  version '1.0.2'
+  sha256 'd39ee53696aeafdf8fb73e64d1d476406b66c5f0c419ed22e7af213512fc0fd5'
 
-  url "http://d16.pl/pub/install/Punchbox%20-%20#{version}.dmg"
-  name 'D16 Punchbox'
+  url "http://d16.pl/pub/install/PunchBox%20-%20#{version}.dmg"
+  name 'D16 PunchBox'
   homepage 'http://d16.pl/punchbox'
 
-  pkg "Punchbox-#{version}.pkg"
+  pkg "PunchBox-#{version}.pkg"
 
   uninstall pkgutil: 'com.d16group.pkg.punchbox'
 end
