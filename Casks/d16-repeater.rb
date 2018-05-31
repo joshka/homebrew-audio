@@ -1,6 +1,6 @@
 cask 'd16-repeater' do
-  version '1.1.0'
-  sha256 'f77efca820e3e6ded10e1a39c1dfd8ab835b6a46144b8a1fff9d392a7b9ec203'
+  version '1.1.1'
+  sha256 '1328f9f8a8235bba6f0a8cd90d1e3b9f83cc1325d56ca88c6558c9fd55aed8cc'
 
   url "http://d16.pl/pub/install/Repeater%20-%20#{version}.dmg"
   name 'D16 Repeater'
