@@ -1,6 +1,6 @@
 cask 'd16-antresol' do
-  version '1.1.1'
-  sha256 'd613ed48d286951e7a812f11314fbb8877b57ac835e47da3d8214630f7c24880'
+  version '1.1.2'
+  sha256 'af100ecfcebb6f348c7dd954916808b51d648d308766f085456e3ae706f4dfb1'
 
   url "http://d16.pl/pub/install/Antresol%20-%20#{version}.dmg"
   name 'D16 Antresol'
