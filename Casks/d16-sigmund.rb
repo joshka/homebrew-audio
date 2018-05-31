@@ -1,6 +1,6 @@
 cask 'd16-sigmund' do
-  version '1.1.2'
-  sha256 '6f87a82c4f3e57c1121c697a7d95b1bc3c3311b7612929e520ab6a725fed45b7'
+  version '1.0.0'
+  sha256 'be093b135e6e4d247c80417db88504ec3ccae7e8a1c57942f34518cef2bb5402'
 
   url "http://d16.pl/pub/install/Sigmund%20-%20#{version}.dmg"
   name 'D16 Sigmund'
