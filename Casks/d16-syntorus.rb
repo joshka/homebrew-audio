@@ -1,6 +1,6 @@
 cask 'd16-syntorus' do
-  version '1.3.0'
-  sha256 '67246d01796f57c63e4eeaad5647eeb20a47b1d80ad02de6c5f56252249c8ec4'
+  version '1.3.1'
+  sha256 '8274c84d9574e3acd50773f1d96d00dd1f584620746e15a4476f7b2b1fadaa5a'
 
   url "http://d16.pl/pub/install/Syntorus%20-%20#{version}.dmg"
   name 'D16 Syntorus'
