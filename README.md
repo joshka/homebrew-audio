@@ -1,4 +1,4 @@
-# joshka/audio
+# joshka/homebrew-audio
 Homebrew Casks for Audio Plugins such as VST, VST2, AU, AAX.
 
 ## Usage
