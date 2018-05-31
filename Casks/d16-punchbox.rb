@@ -1,6 +1,6 @@
 cask 'd16-punchbox' do
-  version '1.0.0'
-  sha256 'cbb1f33bb0279388c98e45f0671b000d607a5edf8b49b3d3461c0f3f7c2aa597'
+  version '1.0.1'
+  sha256 '92389c17184e62965058a40c33fd1d1cd7b486d9b76085151af3ed8ccbae2e90'
 
   url "http://d16.pl/pub/install/Punchbox%20-%20#{version}.dmg"
   name 'D16 Punchbox'
