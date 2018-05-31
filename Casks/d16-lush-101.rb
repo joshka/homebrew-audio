@@ -1,6 +1,6 @@
 cask 'd16-lush-101' do
-  version '1.0.0'
-  sha256 '19344edc3537a59af244adbff36451ee330688b707fa2353effb3a12cccc592c'
+  version '1.0.1'
+  sha256 'b44d612290ae8a064845f235f193de49ecd1ed025f09b998726d789beb01304f'
 
   url "http://d16.pl/pub/install/LuSH-101%20-%20#{version}.dmg"
   name 'D16 LuSH-101'
