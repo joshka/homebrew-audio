@@ -1,6 +1,6 @@
 cask 'd16-devastor' do
-  version '1.3.1'
-  sha256 '57a3047979cdc44f894aa8a9dafe437c8741ab0a39ef9fdf4b3f82f0504195d8'
+  version '1.4.0'
+  sha256 '009871b73065b4f8185833c6ee747a1646548a6da98eaefc0dc210e468b10ba7'
 
   url "http://d16.pl/pub/install/Devastor%20-%20#{version}.dmg"
   name 'D16 Devastor'
