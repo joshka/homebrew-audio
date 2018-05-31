@@ -1,6 +1,6 @@
 cask 'd16-fazortan' do
-  version '1.2.0'
-  sha256 'fddac6151bf447f630ad80f549c62da50b2ad742b9b396e05416cb8d10a63d11'
+  version '1.3.0'
+  sha256 '5414464f87e88965965c0cd18471722b4b0079a6d82b58e09a45dd605714578d'
 
   url "http://d16.pl/pub/install/Fazortan%20-%20#{version}.dmg"
   name 'D16 Fazortan'
