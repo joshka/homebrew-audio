@@ -8,6 +8,6 @@ cask 'arturia-software-center' do
 
   pkg "Arturia_Software_Center_#{version.dots_to_underscores}.pkg"
 
-  uninstall launchctl: 'com.Arturia.ArturiaSoftwareCenterAgent'
-  uninstall pkgutil: 'com.Arturia.pkg.ArturiaSoftwareCenter'
+  uninstall launchctl: 'com.Arturia.ArturiaSoftwareCenterAgent',
+            pkgutil:   'com.Arturia.pkg.ArturiaSoftwareCenter'
 end
