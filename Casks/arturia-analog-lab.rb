@@ -2,7 +2,7 @@ cask 'arturia-analog-lab' do
   version '3.2.0.1509'
   sha256 '35e76826c0a10687f75b923fffcdb55272e3d8a5d3383fcf38436a0826bdc2b9'
 
-  url "https://updates.arturia.net/products/analoglab/soft/Analog_Lab_3_#{version.dots_to_underscores}.pkg"
+  url "https://downloads.arturia.com/products/analoglab/soft/Analog_Lab_3_#{version.dots_to_underscores}.pkg"
   name 'Arturia Analog Lab'
   homepage 'http://www.arturia.com/products/analog-classics/analoglab/overview'
 
