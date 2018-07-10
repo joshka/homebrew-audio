@@ -5,7 +5,6 @@ cask 'arturia-software-center' do
   url "http://downloads.arturia.com/infrastructure/asc/soft/Arturia_Software_Center_#{version.dots_to_underscores}.pkg"
   name 'Arturia Software Center'
   homepage 'http://www.arturia.com/support/downloads&manuals'
-  license :commercial
 
   pkg "Arturia_Software_Center_#{version.dots_to_underscores}.pkg"
 end
